@@ -1,0 +1,10 @@
+{
+  "name": "docker-node-app",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Simple node.js app to say HI",
+  "author": "Nick Selvaggio <nick@segosolutions.com>",
+  "dependencies": {
+    "express": "4.12.3"
+  }
+}
